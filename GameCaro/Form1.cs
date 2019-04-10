@@ -229,5 +229,10 @@ namespace GameCaro
             Listen();
         }
         #endregion
+
+        private void pnlChessBoard_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

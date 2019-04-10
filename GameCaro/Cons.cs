@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace GameCaro
 {
     public class Cons
-    {
+    { //alo
         public static int CHESS_WIDTH = 30;
         public static int CHESS_HEIGHT = 30;
 
