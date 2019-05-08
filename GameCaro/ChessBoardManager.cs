@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace GameCaro
-{ //alo alo
+{ 
     public class ChessBoardManager
     {
         #region Properties
